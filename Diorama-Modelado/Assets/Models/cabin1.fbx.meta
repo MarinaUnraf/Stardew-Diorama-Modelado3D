@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 4f7e9f0ab009d0e8ca1953119cc4ecf3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakingnormal1-Handle.001
+    second: {fileID: 2100000, guid: 3cfb4f8a35f124a3282a00ac15cd2d8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakingnormal1-body.001
+    second: {fileID: 2100000, guid: d69b284ec9ef19ac790454ea2dab4dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakingnormal1-bottom.001
+    second: {fileID: 2100000, guid: 4f44a66858f5ebb41b3d5782ddb79641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bakingnormal1-top.001
+    second: {fileID: 2100000, guid: 79f885f9ecb376289b0e714e224df674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baseMat
+    second: {fileID: 2100000, guid: cb044873268308b64943bbe5e3723398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body.001
+    second: {fileID: 2100000, guid: af10ac3935aa3c25992c4bdf92ad7c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buhardillaMat
+    second: {fileID: 2100000, guid: c187f14f87243b8f9a8f67fac07e2e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bush_textures.001
+    second: {fileID: 2100000, guid: e990672483e594932835abe007dafe4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bush_textures2.001
+    second: {fileID: 2100000, guid: c193d21a8a4418309837ae3fcd4f1de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: casaColumns
+    second: {fileID: 2100000, guid: 099c65f121233549fb87c6e2f40cc040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: casaPared
+    second: {fileID: 2100000, guid: 093ffcbb438f959e18228ae092362055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: casaTechoMat
+    second: {fileID: 2100000, guid: 3f5bf85ed9d64c4749ea9adc42d2085f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chimenea
+    second: {fileID: 2100000, guid: b38ed4b0598923f2dac44c6afda32f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deposit2Mat
+    second: {fileID: 2100000, guid: d70565aedd75829bbae191df9d48517e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: depositTechoMat
+    second: {fileID: 2100000, guid: c5983ef23477e17b99a556fd374efc0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: depostiMat1
+    second: {fileID: 2100000, guid: 2ec2d359e86f3c51badcbf6f52ffb06d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorMat
+    second: {fileID: 2100000, guid: cf5f8105f2224d3d0bb8952014c5ee0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a2bf17fd0376a53f185b3e820a7fe821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lock
+    second: {fileID: 2100000, guid: d6ed6e5d16a34ad2ebabc2e266578855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strips.001
+    second: {fileID: 2100000, guid: 047bfd2958eb45b949e350ba793ef44e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tilestecho2
+    second: {fileID: 2100000, guid: da78b61a5590fd8518bb1e7f4d18543d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: topwood.001
+    second: {fileID: 2100000, guid: c134002bc2553dd4688bbaf86372fcdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunks
+    second: {fileID: 2100000, guid: 6be7b928d250d47538b69a5aa460fc09, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TopDifusse
+    second: {fileID: 2800000, guid: 94f8843f0acad01f684378a2253e21c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baseMatDifusse
+    second: {fileID: 2800000, guid: 3eddf9fb8e6dc76339ec6b470234802b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baseNormal
+    second: {fileID: 2800000, guid: 740e933fe53a2232fb53421e87b75c11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bodyDifusse
+    second: {fileID: 2800000, guid: 64468502ad0f2295990dc82ba7f5a33a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_normals
+    second: {fileID: 2800000, guid: fda92cd2a64fccb11a7b18bd25905a1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_normals_hi_low
+    second: {fileID: 2800000, guid: bd36888d403bb94a98623727c4e555bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bottomDiffuse
+    second: {fileID: 2800000, guid: 8b823f0f6a1d4b1bf811194f8c9aa524, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bottom_normals
+    second: {fileID: 2800000, guid: f0563a041e9e94e09aef39adecba32ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: buhardillaDifusse
+    second: {fileID: 2800000, guid: 3dff58b24e22bac37975cc04f62af47d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: buhardillaNormal
+    second: {fileID: 2800000, guid: 234a033d2b009e6b79f8db495fb1b4e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bush_textures
+    second: {fileID: 2800000, guid: a393c0869184e169abea5aee8a497588, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casaNormal
+    second: {fileID: 2800000, guid: 179ab918bd761a5eba1d6b62183f0721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casaParedDifusse
+    second: {fileID: 2800000, guid: f900cfe44292d80a79b822039ea9b55a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casaTechoMatDifuse
+    second: {fileID: 2800000, guid: 52e8d0b09624002cd871a56ed755faf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chimeneaAndladderDifusse
+    second: {fileID: 2800000, guid: b0c94b8fe7a9768308407be069cb65be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chimeneaNormal
+    second: {fileID: 2800000, guid: 3313e57bcc9fee3b5b87bc50616c72b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: deposit1Normal
+    second: {fileID: 2800000, guid: 8e3b6bd1b090259d488c6078449b472e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: deposit2Normal
+    second: {fileID: 2800000, guid: 11f75fa451d36a30d859752bad4aea5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: depositTechoMatDifuse
+    second: {fileID: 2800000, guid: 980424411899e3626bd9dc8214465c8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: deposittechoNormal
+    second: {fileID: 2800000, guid: 8df358ea81945ac779943c83265c7abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: difuseBody
+    second: {fileID: 2800000, guid: 1365b5c3b2530ea61904b484f60124dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: difuseTop
+    second: {fileID: 2800000, guid: 82d3e4b270c1c604391933252523f2f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: difussestrips
+    second: {fileID: 2800000, guid: 2e9f2d5db7b4e75fe87eb0b3f5ff04dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: doorNormal
+    second: {fileID: 2800000, guid: cf21f1f87f5bd3889a60c6cec76ac162, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: handleDiffuse
+    second: {fileID: 2800000, guid: 4bb54443eb7dda2a5be2e3010a2b0120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: handle_normals_hi_low
+    second: {fileID: 2800000, guid: 1b8d3e1577d4414329c51c8b0322d2b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: strips_normals
+    second: {fileID: 2800000, guid: da0df9417a5e348dc973de933370feeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: techoNormal.001
+    second: {fileID: 2800000, guid: bf2bf14520b06b39fbb93b3c56ac3a50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tilesddiffuse
+    second: {fileID: 2800000, guid: 048228ca9c8cf4f8cb4de70d47cd59bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_normals_hi_low
+    second: {fileID: 2800000, guid: e6d28e67afaa01780975fe1a5e94cf4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: topwood_normals
+    second: {fileID: 2800000, guid: e57179bb024c3672e87e35435ea90cfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunksDifusse
+    second: {fileID: 2800000, guid: 4a54eecadd6d59596ba375e3b289be59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunksNormal
+    second: {fileID: 2800000, guid: 75c26fb4ac83ee07bae3be7fdfac80e3, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
